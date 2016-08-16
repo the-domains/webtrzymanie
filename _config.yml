@@ -19,5 +19,8 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/webtrzymanie/'
     type: external
+  - name: TheGrid
+    url: 'https://thegrid.ai/webtrzymanie/'
+    type: external
 title: WebTrzymanie
 description: Utrzymanie stron internetowych
