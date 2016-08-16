@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WebTrzymanie]]></title>
+        <description><![CDATA[WebTrzymanie]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Aug 2016 17:57:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jak schudnąć (w przeglądarce)]]></title>
+            <description><![CDATA[<article><h1>Jak schudnąć (w przeglądarce)</h1><p>Ostateczny przewodnik wydajności dla stron internetowych</p><img src="https://browserdiet.com/assets/img/rays.png"></article>]]></description>
+            <link>https://browserdiet.com/pl/</link>
+            <guid isPermaLink="false">d6a42408-8982-4bb5-933f-0c9de528de7a</guid>
+            <pubDate>Tue, 16 Aug 2016 17:56:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
