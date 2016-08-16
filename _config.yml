@@ -16,5 +16,8 @@ navigation:
   - name: Tumblr
     url: 'https://webtrzymanie.tumblr.com/'
     type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/webtrzymanie/'
+    type: external
 title: WebTrzymanie
 description: Utrzymanie stron internetowych
