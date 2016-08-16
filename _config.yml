@@ -12,5 +12,9 @@ color:
     - '#333333'
 layout_spectrum: 0.7125158275011927
 name: webtrzymanie
+navigation:
+  - name: Tumblr
+    url: 'https://webtrzymanie.tumblr.com/'
+    type: external
 title: WebTrzymanie
 description: Utrzymanie stron internetowych
