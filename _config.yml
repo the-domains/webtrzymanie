@@ -1,26 +1,37 @@
-typography_spectrum: 0.6019235758576542
+typography_spectrum: 0.14656180290071905
 color:
-  brandStrength: 0.6955714910291135
-  lightness: 0.0518331762868911
-  saturation: 0.4851983767002821
-  rhythmicContrast: 0.8766619160305709
+  brandStrength: 0.14262105032930725
+  lightness: 0.017164581851701777
+  saturation: 0.8300223724014761
+  rhythmicContrast: 0.9475947112809534
   brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
     - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.7125158275011927
-name: webtrzymanie
+    - '#FF9800'
+github: true
+layout_spectrum: 0.8936973787153527
+analytics:
+  google: UA-3275382-45
+author:
+  name: Artur
+  email: artur@mybee.farm
+  url: 'https://www.mybee.farm'
+name: mybee
 navigation:
-  - name: Tumblr
-    url: 'https://webtrzymanie.tumblr.com/'
+  - name: Jekyll
+    url: 'https://www.mybee.club/'
+    type: external
+  - name: Grid
+    url: 'http://thegrid.ai/mybee/'
     type: external
   - name: Facebook
-    url: 'https://www.facebook.com/webtrzymanie/'
+    url: 'https://www.facebook.com/mybee.club/'
     type: external
-  - name: TheGrid
-    url: 'https://thegrid.ai/webtrzymanie/'
+  - name: Tumblr
+    url: 'http://artur.mybee.club/'
     type: external
-title: WebTrzymanie
-description: Utrzymanie stron internetowych
+title: MyBee.Miód
+content: []
+description: Miód. Inwestuj w płynne złoto.
